@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HAASstudio
-- 👀 I’m interested in #Defi #blockachain #NFTs
-- 🌱 I’m currently learning #GitHub #THETA Gaurdian node #PolkaDOT.js
+- 👀 I’m interested in #NFTs #blockachain 
+- 🌱 I’m currently learning #GitHub #ThirdWeb #marketplace
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
