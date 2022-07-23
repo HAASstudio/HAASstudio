@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HAASstudio
 - 👀 I’m interested in #NFTs #blockachain 
-- 🌱 I’m currently learning #GitHub #ThirdWeb #marketplace
+- 🌱 I’m currently learning #GitHub #walletsecurity #nftmarketplace
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
