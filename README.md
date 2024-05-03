@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @HAASstudio
-- 👀 I’m interested in #NFTs #blockachain 
-- 🌱 I’m currently learning #GitHub #walletsecurity #nftmarketplace
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi
+- 👀 
+- 🌱 I’m currently an amatuer on #GitHub 
+- 💞️ I’m looking to learn ...
+- 📫 find  me on Warpcast or X ...
 
 <!---
 HAASstudio/HAASstudio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
